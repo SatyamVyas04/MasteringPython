@@ -2,7 +2,6 @@ from tkinter import *
 
 root = Tk()
 root.title("Simple Calculator") # renaming the Tk window
-
 e = Entry(root, width=50, borderwidth=5) # Creating the Bar where numbers show
 e.grid(row=0, column=0, columnspan=4, rowspan=2, padx=10, pady=10) # displaying it
 
