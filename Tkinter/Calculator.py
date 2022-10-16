@@ -1,5 +1,3 @@
-from cgitb import text
-from multiprocessing.sharedctypes import Value
 from tkinter import *
 
 root = Tk()
