@@ -26,3 +26,6 @@ for row in range(2, sheet.max_row + 1): # starts from 2 so as to skip the title 
     print(row, cell_corrected.value) # checking the current value in it
 
 wb.save("transactions2.xlsx")
+
+
+# More info at https://openpyxl.readthedocs.io/en/stable/
