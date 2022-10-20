@@ -16,17 +16,11 @@ def player(x, y): #------------------------------------------------ What will th
     
 # Creating the SideCharacters/Villains/Enemies
 
-    
-
-
-
 # THE MAIN GAME LOOP 
 while running: 
     # Stuff that appeares till the end
     screen.fill((70, 70, 128)) #---------------------------------- Setting BGcolor
     player(playerX, playerY) #------------------------------------ Calling in the Protagonist
-    
-    
         
     # For different Keyboard Interupts, Mouse Clicks, Close or other events,
     # make cases inside For loop below to do specific tasks based on input
@@ -43,11 +37,9 @@ while running:
             if event.key == pygame.K_DOWN:
                 playerYchange = 1
         if event.type == pygame.KEYUP:
-            if event.key == (pygame.K_LEFT or
-                             pygame.K_RIGHT):
+            if event.key == pygame.K_LEFT or event.key == pygame.K_RIGHT:
                 playerXchange = 0
-            if event.key == (pygame.K_UP or
-                             pygame.K_DOWN):
+            if event.key == pygame.K_UP or event.key == pygame.K_DOWN:
                 playerYchange = 0
     
     # Updating Coordinates
