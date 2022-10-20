@@ -5,6 +5,7 @@ root.title("Simple Calculator") # renaming the Tk window
 e = Entry(root, width=50, borderwidth=5) # Creating the Bar where numbers show
 e.grid(row=0, column=0, columnspan=4, rowspan=2, padx=20, pady=20) # displaying it
 
+# Calculation and Click Func 
 calc = ""
 def click(text): # writing what the Buttons do
     global calc
@@ -23,6 +24,7 @@ def click(text): # writing what the Buttons do
         e.delete(0, END)
         calc+=text
         
+# Clear Func
 def clear():
     global calc
     e.delete(0, END)
@@ -45,7 +47,6 @@ badd = Button(root, text="+", font="Times 18 bold", padx=40, pady=40, command=la
 bsub = Button(root, text="-", font="Times 18 bold", padx=42, pady=40, command=lambda: click("-"), fg="Yellow")
 bmult = Button(root, text="*", font="Times 18 bold", padx=40, pady=40, command=lambda: click("*"), fg="Yellow")
 bdiv = Button(root, text="/", font="Times 18 bold", padx=40, pady=40, command=lambda: click("/"), fg="Yellow")
-
 
 # Placing the buttons in the Tk window
 b1.grid(row=4, column=0)
