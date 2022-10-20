@@ -3,7 +3,7 @@ from tkinter import *
 root = Tk()
 root.title("Simple Calculator") # renaming the Tk window
 e = Entry(root, width=50, borderwidth=5) # Creating the Bar where numbers show
-e.grid(row=0, column=0, columnspan=4, rowspan=2, padx=10, pady=10) # displaying it
+e.grid(row=0, column=0, columnspan=4, rowspan=2, padx=20, pady=20) # displaying it
 
 calc = ""
 def click(text): # writing what the Buttons do
@@ -29,22 +29,22 @@ def clear():
     calc = ""
 
 # Creating the buttons
-b1 = Button(root, text="1", padx=40, pady=20, command=lambda: click("1"), fg="#00FFFF")
-b2 = Button(root, text="2", padx=40, pady=20, command=lambda: click("2"), fg="#00FFFF")
-b3 = Button(root, text="3", padx=40, pady=20, command=lambda: click("3"), fg="#00FFFF")
-b4 = Button(root, text="4", padx=40, pady=20, command=lambda: click("4"), fg="#00FFFF")
-b5 = Button(root, text="5", padx=40, pady=20, command=lambda: click("5"), fg="#00FFFF")
-b6 = Button(root, text="6", padx=40, pady=20, command=lambda: click("6"), fg="#00FFFF")
-b7 = Button(root, text="7", padx=40, pady=20, command=lambda: click("7"), fg="#00FFFF")
-b8 = Button(root, text="8", padx=40, pady=20, command=lambda: click("8"), fg="#00FFFF")
-b9 = Button(root, text="9", padx=40, pady=20, command=lambda: click("9"), fg="#00FFFF")
-b0 = Button(root, text="0", padx=40, pady=20, command=lambda: click("0"), fg="#00FFFF") 
-bcls = Button(root, text="CLS", padx=32, pady=20, command=clear, fg="Black") 
-bequal = Button(root, text="=", padx=40, pady=20, command=lambda: click("="), fg="Yellow")
-badd = Button(root, text="+", padx=40, pady=20, command=lambda: click("+"), fg="Yellow")
-bsub = Button(root, text="-", padx=40, pady=20, command=lambda: click("-"), fg="Yellow")
-bmult = Button(root, text="*", padx=40, pady=20, command=lambda: click("*"), fg="Yellow")
-bdiv = Button(root, text="/", padx=40, pady=20, command=lambda: click("/"), fg="Yellow")
+b1 = Button(root, text="1", font="Times 18 bold", padx=40, pady=40, command=lambda: click("1"), fg="#00FFFF")
+b2 = Button(root, text="2", font="Times 18 bold", padx=40, pady=40, command=lambda: click("2"), fg="#00FFFF")
+b3 = Button(root, text="3", font="Times 18 bold", padx=40, pady=40, command=lambda: click("3"), fg="#00FFFF")
+b4 = Button(root, text="4", font="Times 18 bold", padx=40, pady=40, command=lambda: click("4"), fg="#00FFFF")
+b5 = Button(root, text="5", font="Times 18 bold", padx=40, pady=40, command=lambda: click("5"), fg="#00FFFF")
+b6 = Button(root, text="6", font="Times 18 bold", padx=40, pady=40, command=lambda: click("6"), fg="#00FFFF")
+b7 = Button(root, text="7", font="Times 18 bold", padx=40, pady=40, command=lambda: click("7"), fg="#00FFFF")
+b8 = Button(root, text="8", font="Times 18 bold", padx=40, pady=40, command=lambda: click("8"), fg="#00FFFF")
+b9 = Button(root, text="9", font="Times 18 bold", padx=40, pady=40, command=lambda: click("9"), fg="#00FFFF")
+b0 = Button(root, text="0", font="Times 18 bold", padx=40, pady=40, command=lambda: click("0"), fg="#00FFFF") 
+bcls = Button(root, text="CLS", font="Times 18 bold", padx=27, pady=40, command=clear, fg="Black") 
+bequal = Button(root, text="=", font="Times 18 bold", padx=40, pady=40, command=lambda: click("="), fg="Yellow")
+badd = Button(root, text="+", font="Times 18 bold", padx=40, pady=40, command=lambda: click("+"), fg="Yellow")
+bsub = Button(root, text="-", font="Times 18 bold", padx=42, pady=40, command=lambda: click("-"), fg="Yellow")
+bmult = Button(root, text="*", font="Times 18 bold", padx=40, pady=40, command=lambda: click("*"), fg="Yellow")
+bdiv = Button(root, text="/", font="Times 18 bold", padx=40, pady=40, command=lambda: click("/"), fg="Yellow")
 
 
 # Placing the buttons in the Tk window
