@@ -14,8 +14,16 @@ playerYchange = 0 #------------------------------------------------ Player Coord
 def player(x, y): #------------------------------------------------ What will the Player Do?
     screen.blit(playerimg, (x, y))
     
-# Creating the SideCharacters/Villains/Enemies
-
+# Creating the SideCharacters/Villains/Enemies    
+enemyimg = pygame.image.load("Pygame/arcade-game.png") #---------- Enemy
+enemyimg = pygame.transform.scale(enemyimg, (64, 64))   #--------- Enemy Img rescaled
+enemyX = 464 #---------------------------------------------------- Enemy ka initial X Coord.
+enemyY = 0 #------------------------------------------------------ Enemy ka initial Y Coord.
+enemyXchange = 0 #------------------------------------------------ Enemy Coord. Change
+enemyYchange = 0 #------------------------------------------------ Enemy Coord. Change
+def enemy(x, y): #------------------------------------------------ What will the Enemy Do?
+    screen.blit(enemyimg, (x, y))
+    
 # THE MAIN GAME LOOP 
 while running: 
     # Stuff that appeares till the end
