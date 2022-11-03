@@ -45,4 +45,10 @@ while running:
     # Updating Coordinates
     playerX += playerXchange
     playerY += playerYchange
+    # Making sure ship is in boundaries
+    if playerX<=0:
+        playerX = 0
+    elif playerX >= 936:
+        playerX = 936
+        
     pygame.display.update() 
