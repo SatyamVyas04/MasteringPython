@@ -5,6 +5,7 @@ screen = pygame.display.set_mode((1000, 800)) #-------------------- Game Window 
 running = True #--------------------------------------------------- Game Status
 pygame.display.set_caption("SpaceInvaders") #---------------------- Title Change
 pygame.display.set_icon(pygame.image.load("Pygame/ufo.png")) #----- Icon Change
+back = pygame.image.load("Pygame/background.png")
 
 # Creating the Main Game Element
 playerimg = pygame.image.load("Pygame/protagonist.png") #---------- Protagonist
@@ -40,7 +41,7 @@ def playerbullet(x, y): #------------------------------------------ What will th
 # THE MAIN GAME LOOP 
 while running:
     # Stuff that appeares till the end
-    screen.fill((70, 70, 140)) #---------------------------------- Setting BGcolor
+    screen.blit(back, (0, 0)) #------------------------------------------- Setting BG
     player(playerX, playerY) #------------------------------------ Calling in the Protagonist
     enemy1(enemy1X, enemy1Y) #------------------------------------ Calling in the Enemy
     # For different Keyboard Interupts, Mouse Clicks, Close or other events,
@@ -58,9 +59,10 @@ while running:
             if event.key == pygame.K_DOWN:
                 playerYchange = 1
             if event.key == pygame.K_SPACE:
-                playerbullet(playerX + 24, playerY)
-                playerbulletX = playerX+24
-                playerbulletY = playerY
+                if bullet_state == "NotFired":
+                    playerbullet(playerX + 24, playerY)
+                    playerbulletX = playerX+24
+                    playerbulletY = playerY
         if event.type == pygame.KEYUP:
             if event.key == pygame.K_LEFT or event.key == pygame.K_RIGHT:
                 playerXchange = 0
@@ -92,9 +94,21 @@ while running:
         enemy1Xchange = -0.5
         
     # Updating Bullet Coordinates
+    if playerbulletY <=0:
+        bullet_state = "NotFired"
     if bullet_state == "Fired":
         playerbullet(playerbulletX, playerbulletY)
         playerbulletX += playerbulletXchange
         playerbulletY += playerbulletYchange
         
+    # Collision Detection
+    enemy1rect = pygame.Rect(0, 0, 64, 64)
+    enemy1rect.topleft = (enemy1X, enemy1Y)
+    bulletrect = pygame.Rect(0, 0, 16, 16)
+    bulletrect.topleft = (playerbulletX, playerbulletY)
+    collide = bulletrect.colliderect(enemy1rect)
+    if collide:
+        enemy1X = random.randint(0, 1000)
+        enemy1Y = random.randint(0, 200)
+        bullet_state = "NotFired"
     pygame.display.update() 
