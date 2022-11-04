@@ -22,7 +22,7 @@ enemy1img = pygame.transform.scale(enemy1img, (64, 64))   #-------- enemy1 Img r
 enemy1X = random.randint(0, 1000) #-------------------------------- enemy1 ka initial X Coord.
 enemy1Y = random.randint(0, 200) #--------------------------------- enemy1 ka initial Y Coord.
 enemy1Xchange = 0.5 #---------------------------------------------- enemy1 Coord. Change
-enemy1Ychange = 0.03 #--------------------------------------------- enemy1 Coord. Change
+enemy1Ychange = 0.15 #--------------------------------------------- enemy1 Coord. Change
 def enemy1(x, y): #------------------------------------------------ What will the enemy1 Do?
     screen.blit(enemy1img, (x, y))
 
