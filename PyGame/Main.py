@@ -18,20 +18,29 @@ def player(x, y): #------------------------------------------------ What will th
 # Creating the SideCharacters/Villains/Enemies    
 enemy1img = pygame.image.load("Pygame/enemy1.png") #--------------- enemy1
 enemy1img = pygame.transform.scale(enemy1img, (64, 64))   #-------- enemy1 Img rescaled
-enemy1X = random.randint(0, 1000) #---------------------------------------------------- enemy1 ka initial X Coord.
-enemy1Y = random.randint(0, 200) #------------------------------------------------------ enemy1 ka initial Y Coord.
-enemy1Xchange = 0.5 #------------------------------------------------ enemy1 Coord. Change
-enemy1Ychange = 0.03 #------------------------------------------------ enemy1 Coord. Change
+enemy1X = random.randint(0, 1000) #-------------------------------- enemy1 ka initial X Coord.
+enemy1Y = random.randint(0, 200) #--------------------------------- enemy1 ka initial Y Coord.
+enemy1Xchange = 0.5 #---------------------------------------------- enemy1 Coord. Change
+enemy1Ychange = 0.03 #--------------------------------------------- enemy1 Coord. Change
 def enemy1(x, y): #------------------------------------------------ What will the enemy1 Do?
     screen.blit(enemy1img, (x, y))
 
 # Creating Player Bullet
-
+playerbulletimg = pygame.image.load("Pygame/bullet.png") #--------- ProtagonistBullet
+bullet_state = "NotFired"
+playerbulletX = 0 #------------------------------------------------ PlayerBullet ka initial X Coord.
+playerbulletY = 0 #------------------------------------------------ PlayerBullet ka initial Y Coord.
+playerbulletXchange = 0 #------------------------------------------ PlayerBullet Coord. Change
+playerbulletYchange = -1 #--------------------------------------- PlayerBullet Coord. Change
+def playerbullet(x, y): #------------------------------------------ What will the PlayerBullet Do?
+    global bullet_state
+    bullet_state = "Fired"
+    screen.blit(playerbulletimg, (x, y))
     
 # THE MAIN GAME LOOP 
 while running:
     # Stuff that appeares till the end
-    screen.fill((70, 70, 128)) #---------------------------------- Setting BGcolor
+    screen.fill((70, 70, 140)) #---------------------------------- Setting BGcolor
     player(playerX, playerY) #------------------------------------ Calling in the Protagonist
     enemy1(enemy1X, enemy1Y) #------------------------------------ Calling in the Enemy
     # For different Keyboard Interupts, Mouse Clicks, Close or other events,
@@ -48,6 +57,10 @@ while running:
                 playerYchange = -1
             if event.key == pygame.K_DOWN:
                 playerYchange = 1
+            if event.key == pygame.K_SPACE:
+                playerbullet(playerX + 24, playerY)
+                playerbulletX = playerX+24
+                playerbulletY = playerY
         if event.type == pygame.KEYUP:
             if event.key == pygame.K_LEFT or event.key == pygame.K_RIGHT:
                 playerXchange = 0
@@ -78,5 +91,10 @@ while running:
         enemy1X = 936
         enemy1Xchange = -0.5
         
+    # Updating Bullet Coordinates
+    if bullet_state == "Fired":
+        playerbullet(playerbulletX, playerbulletY)
+        playerbulletX += playerbulletXchange
+        playerbulletY += playerbulletYchange
         
     pygame.display.update() 
