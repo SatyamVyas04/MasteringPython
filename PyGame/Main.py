@@ -24,6 +24,9 @@ enemy1Xchange = 0.5 #------------------------------------------------ enemy1 Coo
 enemy1Ychange = 0.03 #------------------------------------------------ enemy1 Coord. Change
 def enemy1(x, y): #------------------------------------------------ What will the enemy1 Do?
     screen.blit(enemy1img, (x, y))
+
+# Creating Player Bullet
+
     
 # THE MAIN GAME LOOP 
 while running:
