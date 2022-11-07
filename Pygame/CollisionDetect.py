@@ -19,12 +19,16 @@ while running:
     surface.fill("White")
     # Resize Check:
     wnW, wnH = surface.get_size()
+    surface = pygame.display.set_mode((wnW, wnH), pygame.RESIZABLE)
     # Menu Setup
     menuW, menuH = wnW, int(wnH/5)
     menu = pygame.Surface((menuW, menuH))
     menu.fill("Gold")
     menu_TL_Y = wnH - menuH
     surface.blit(menu, (0, menu_TL_Y))
+    # Buttons Setup
+    bH = bW = 0.8*menuH
+    pygame.draw.rect(surface, "blue", pygame.Rect(0.1*menuH, menu_TL_Y+0.1*menuH, bW, bH))
     
     
     
@@ -32,10 +36,13 @@ while running:
         if event.type == pygame.QUIT:
             pygame.quit()
             sys.exit()
-    
-
-
-
+        if event.type == pygame.VIDEORESIZE:
+            width, height = event.size
+            if width < 1000:
+                width = 1000
+            if height < 625:
+                height = 625
+            wnW, wnH = width, height
 
 
     pygame.display.update()
