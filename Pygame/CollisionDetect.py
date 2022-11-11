@@ -8,7 +8,7 @@ surface = pygame.display.set_mode((wnW, wnH))
 pygame.display.set_caption("CollisionDetection")
 clock = pygame.time.Clock()
 
-# Menu Buttons Setup
+# Menu Setup
 menuW, menuH = wnW, int(wnH/5)
 padding = 0.1*menuH
 sidepadding = 3.6*padding
@@ -26,7 +26,8 @@ pygame.draw.rect(surface, "blue", pygame.Rect(4*sidepadding+3*bW, menu_TL_Y+padd
 
 running = True
 while running:
-
+    # Collision Mechanism
+    
     
     
     for event in pygame.event.get():
