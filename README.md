@@ -75,4 +75,49 @@ The essential accessories of a hydrant valve typically include a **valve spindle
 #### > What is first aid hose reel? 
 A first aid hose reel is a firefighting equipment that consists of a reel with a length of hose specifically designed for first aid firefighting. It is typically mounted on a wall or in a designated location for easy access in case of small fires or emergencies. The hose reel is manually operated and provides a controlled water flow to extinguish or control fires in their early stages before they escalate. It is commonly found in buildings, offices, and public areas to facilitate immediate response to small fires.
 
-#### > 
+#### > What is fire service inlet and fire breaching inlet?
+- A fire service inlet, also known as a fire department connection (FDC), is a dedicated connection point that allows the fire department to access a building's water supply during firefighting operations. It provides a connection for fire department hoses and equipment to supplement the existing water source.
+- The term "fire breaching inlet" is not commonly used in fire protection systems and may refer to an inlet that enables firefighters to access alternative water sources, such as natural bodies of water, when conventional water sources are limited. However, terminology may vary, and specific definitions may depend on regional or local practices.
+
+#### > What type of hazards are there in fire hydrant system design?
+1. Water Supply Hazards: Issues related to the water supply source, such as insufficient water pressure, inadequate water volume, or water quality concerns, can pose hazards to the effectiveness of the system.
+2. Pressure Hazards: Improper design or sizing of components, such as pumps, valves, or piping, can result in excessive pressure or pressure surges within the system, potentially causing equipment damage or leaks.
+3. Corrosion Hazards: Corrosion within the hydrant system can weaken pipes, fittings, and other components over time, leading to potential leaks, pipe failures, or reduced system performance.
+4. Freezing Hazards: In colder climates, the design must account for freezing temperatures that can cause water in the system to freeze, leading to pipe bursts, valve malfunctions, and impaired firefighting capabilities.
+5. Accessibility Hazards: Design considerations should include accessibility for firefighters, ensuring that hydrants, valves, and other components are easily accessible and visible during emergency situations.
+6. Maintenance Hazards: Lack of proper maintenance can lead to deteriorated system performance, blocked or non-functioning hydrants, or malfunctioning valves, compromising the system's overall effectiveness.
+7. Regulatory Compliance Hazards: Failure to comply with local fire safety regulations and standards in the design can result in non-compliant systems, which may pose hazards and potentially lead to legal and safety issues.
+
+#### > What is hydrant spacing in ordinary hazard?
+- Normally in towns/cities, the hydrants should be provided at intervals of 100 m but this distance may be suitably increased or decreased depending on the risk in the area desired to be protected. [Source](https://law.resource.org/pub/in/bis/S03/is.13039.1991.html)
+- For moderate hazard (Gr G-2) where the single hydrant is use, it should be installed at every 45 m apart.
+- For high hazard category (Gr G-3, H and J), the hydrants should be installed at every 30 m apart along building line.
+
+#### > How many hours of firefighting capacity is required by the fire tank for light, moderate and high hazard A and high hazard B?
+1. Light Hazard: A fire tank for light hazard areas is typically required to provide a minimum of 1 hour of firefighting capacity. Light hazard areas include spaces with a low risk of fire, such as offices, schools, or residential buildings.
+2. Moderate Hazard: For moderate hazard areas, the fire tank is generally expected to provide a minimum of 1 to 2 hours of firefighting capacity. Moderate hazard areas may include places with a moderate risk of fire, such as warehouses or light industrial facilities.
+3. High Hazard A: In high hazard A areas, where there is a significant fire risk, the fire tank is usually required to have a minimum of 2 to 4 hours of firefighting capacity. High hazard A areas can include locations with flammable liquids, chemicals, or industrial processes.
+4. High Hazard B: For high hazard B areas, which involve highly flammable substances or special hazards, the fire tank may need to provide a minimum of 4 to 6 hours or even more of firefighting capacity. High hazard B areas may include locations with large quantities of flammable materials, petrochemical facilities, or heavy industrial plants.
+
+## FIRE SPRINKLER SYSTEM
+#### > What is the role of a fire sprinkler?
+Fire sprinklers detect and control fires by releasing water onto the affected area. They activate individually when exposed to heat, suppressing flames and preventing fire spread. Sprinklers provide immediate response, minimizing damage and protecting lives in buildings and structures.
+
+#### > What are the types of fire sprinklers?
+1. Pendant Sprinklers: These sprinklers hang from the ceiling with a deflector that sprays water in a circular pattern below the sprinkler head.
+2. Upright Sprinklers: Upright sprinklers are installed in an upright position and emit water in a spray pattern that reaches out and down.
+3. Sidewall Sprinklers: These sprinklers are mounted on the side wall of a room and spray water in a half-circle pattern.
+4. Concealed Sprinklers: Concealed sprinklers are recessed into the ceiling with a cover plate, which falls away when exposed to high temperatures, allowing water to flow.
+5. Early Suppression, Fast Response (ESFR) Sprinklers: ESFR sprinklers are designed for high challenge fire protection in warehouses and other high-ceiling areas. They deliver a high volume of water quickly to suppress fires.
+6. Residential Sprinklers: Specifically designed for residential buildings, these sprinklers are smaller in size and are intended to blend with the décor while providing fire protection.
+
+#### > What are the various general temperature ratings of the fire sprinklers? Explain with colour codes
+Fire sprinklers are classified into various temperature ratings, which indicate the temperature at which the sprinkler head will activate. The temperature ratings are typically represented by color codes: [Source](http://www.alliedfire.in/products/sprinkler.html)
+1. Ordinary Temperature (Orange): Ordinary temperature sprinklers have an activation temperature of around 135°C (275°F) and are suitable for most standard applications.
+2. Intermediate Temperature (Yellow): Intermediate temperature sprinklers have an activation temperature of around 162°C (350°F) and are commonly used in areas with higher ambient temperatures or specific hazards.
+3. High Temperature (Red): High-temperature sprinklers have an activation temperature of around 204°C (400°F) and are utilized in locations with extreme heat conditions or where rapid fire development is expected.
+4. Extra High Temperature (Blue): Extra high-temperature sprinklers have an activation temperature of around 260°C (500°F) and are specifically designed for industrial processes or areas with exceptionally high-temperature environments.
+
+#### > Does sprinkler system extinguish fire automatically?
+
+
