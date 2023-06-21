@@ -1,6 +1,6 @@
 # Fire Question Bank
-## FIRE AS A CHEMCIAL REACTION
 
+## FIRE AS A CHEMICAL REACTION
 #### > What is a Fire?
 A fire is a chemical reaction involving fuel, heat, and oxygen that produces flames, heat, light, and smoke. It requires these three elements to sustain and can have destructive or beneficial effects.
 
