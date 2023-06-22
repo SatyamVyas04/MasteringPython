@@ -28,30 +28,30 @@ The recommended type of extinguisher for electrical fires is a CO2 (carbon dioxi
 The recommended type of extinguisher for oil fires is a wet chemical fire extinguisher. Wet chemical extinguishers are specifically designed to handle Class F fires involving cooking oils and fats. They work by creating a cooling and smothering effect on the fire, preventing re-ignition. These extinguishers are commonly found in commercial kitchens and restaurants where the risk of oil fires is higher.
 
 ## FIRE HYDRANT SYSTEM [(Source)](https://law.resource.org/pub/in/bis/S03/is.3844.1989.html)
-#### > Give five componants of Hydrant system
+#### > Give five components of the Hydrant system
 The five components of a hydrant system typically include:
 1. Water Source: The primary component is a reliable water supply, such as a municipal water line, reservoir, or water storage tank, which provides water to the hydrant system.
 2. Hydrant: The hydrant itself is an above-ground fixture that provides access to the water supply. It consists of a valve, outlet, and hose connection for firefighters to connect hoses and draw water.
-3. Water Mains: Water mains are the underground pipes that distribute water throughout the area. They connect the hydrants to the water source and deliver water to the hydrant system.
+3. Water Mains: Water mains are underground pipes that distribute water throughout the area. They connect the hydrants to the water source and deliver water to the hydrant system.
 4. Control Valve: A control valve is installed in the water main to control the flow of water to the hydrant system. It allows for opening or closing the water supply to individual hydrants or sections of the system.
 5. Fire Hoses and Nozzles: Fire hoses are essential components that connect to the hydrants, enabling firefighters to transport water to the fire. Nozzles are attached to the end of fire hoses to regulate the water flow and spray pattern.
 
 #### > What is a wet riser and what is its location?
-A wet riser is a type of fire protection system commonly found in multi-story buildings. It consists of a vertical pipe or series of pipes that are permanently charged with water. The wet riser system is connected to a reliable water supply and has outlets at each floor level purpose being to provide a readily available water source for firefighters to access during firefighting operations in tall buildings. It eliminates the need to manually transport water to higher floors, saving time and effort. It is located within a fire riser shaft or protected enclosure in a central and easily accessible area.
+A wet riser is a type of fire protection system commonly found in multi-story buildings. It consists of a vertical pipe or series of pipes that are permanently charged with water. The wet riser system is connected to a reliable water supply and has outlets at each floor level purpose is to provide a readily available water source for firefighters to access during firefighting operations in tall buildings. It eliminates the need to manually transport water to higher floors, saving time and effort. It is located within a fire riser shaft or protected enclosure in a central and easily accessible area.
 
-#### > How many fire tanks are there in hydrant system and where are they located
-1. Static Water Tank: Underground or surface water tank, constructed to store water for fire fighting purpose.
-2. Terrace Task: A concrete/masonry/plastic steel tank constructed or erected on terrace of building for fire fighting purpose.
+#### > How many fire tanks are there in the hydrant system and where are they located
+1. Static Water Tank: Underground or surface water tank, constructed to store water for fire fighting purposes.
+2. Terrace Task: A concrete/masonry/plastic steel tank constructed or erected on the terrace of the building for fire fighting purposes.
 3. Priming Tank: A small tank erected in/over the pump house above the fire fighting pumps to keep the pump casing and suction of the fire pump permanently flooded.
 
-#### > How much fire fighting pressure is required at highest point in kg/cm<sup>2</sup>?
+#### > How much fire fighting pressure is required at the highest point in kg/cm<sup>2</sup>?
 As a general guideline, many [fire safety standards](https://www.adanielectricity.com/Tender/Uploadedfile/Corrigendum/Fire%20fighting%20Specs_20181228155441.pdf) recommend a minimum firefighting pressure of around 3.5 kg/cm² (or 3.5 bar) at the highest point.
 
-#### > How many pumps are there in a pump room? what is manual and auto running of pumps?
-1. Jockey Pump: A pump of small capacity which is set to come into operation, automatically with drop in static pressure in the system and to automatically stop when the pre-set pressure is reached again.
-2. Terrace Pump: An electrically driven pump, located on the terrace connected to a terrace tank with gate valve on suction side and to the internal hydrant system with non-return valve on delivery side.
-3. Fire Pump: An electric/diesel pump installed at static water tank to charge the wet-riser systems.
-4. Stand-by Pump: A pump of same capacity as fire pump, driven by a diesel engine or connected to any other alternate source of electric supply.
+#### > How many pumps are there in a pump room? what are the manual and auto running of pumps?
+1. Jockey Pump: A pump of small capacity which is set to come into operation, automatically with a drop in static pressure in the system and to automatically stop when the pre-set pressure is reached again.
+2. Terrace Pump: An electrically driven pump, located on the terrace connected to a terrace tank with a gate valve on the suction side and to the internal hydrant system with a non-return valve on the delivery side.
+3. Fire Pump: An electric/diesel pump is installed at static water tank to charge the wet-riser systems.
+4. Stand-by Pump: A pump of the same capacity as the fire pump, driven by a diesel engine or connected to any other alternate source of electric supply.
 
 In a fire hydrant system, both manual and automatic pumps can be utilized:
 1. Manual Pump: A manual pump in a fire hydrant system is operated by authorized personnel. When a fire occurs, individuals manually start the pump to provide water pressure and flow to the hydrant system. The manual pump requires human intervention to initiate its operation and control the water supply.
@@ -61,7 +61,7 @@ In a fire hydrant system, both manual and automatic pumps can be utilized:
 A jockey pump maintains constant pressure in a fire sprinkler system by compensating for small leaks or pressure drops. It prevents frequent starting and stopping of the main fire pump, ensuring system reliability.
 
 #### > What is the function of a main hydrant pump?
-The main hydrant pump supplies water at high pressure and flow rates to the fire hydrant system, ensuring effective firefighting capabilities. It draws water from a reliable source and boosts the pressure to extinguish fires and provide adequate water supply for firefighting operations.
+The main hydrant pump supplies water at high pressure and flow rates to the fire hydrant system, ensuring effective firefighting capabilities. It draws water from a reliable source and boosts the pressure to extinguish fires and provides an adequate water supply for firefighting operations.
 
 #### > What is the function of a diesel(fire) pump?
 A diesel pump, also known as a diesel fire pump, is designed to provide water flow and pressure in a fire protection system when the main power supply is unavailable or disrupted. It is powered by a diesel engine and functions as an alternative or backup to the electric-driven fire pumps. The diesel pump ensures the continuous operation of the fire protection system, enabling firefighting efforts during power outages or emergencies.
@@ -72,10 +72,10 @@ In a fire hydrant system, a booster pump is used to augment water pressure, ensu
 #### > What are the essential accessories of a hydrant valve?
 The essential accessories of a hydrant valve typically include a **valve spindle**, **operating wheel or lever**, **coupling** or connection for hose attachment, and a **cap or bonnet** to protect the valve mechanism. Other accessories may include a **strainer** to prevent debris from entering the valve, a **drain valve** to remove trapped water, and a **chain or locking device** for securing the valve in the closed or open position.
 
-#### > What is first aid hose reel? 
+#### > What is a first aid hose reel? 
 A first aid hose reel is a firefighting equipment that consists of a reel with a length of hose specifically designed for first aid firefighting. It is typically mounted on a wall or in a designated location for easy access in case of small fires or emergencies. The hose reel is manually operated and provides a controlled water flow to extinguish or control fires in their early stages before they escalate. It is commonly found in buildings, offices, and public areas to facilitate immediate response to small fires.
 
-#### > What is fire service inlet and fire breaching inlet?
+#### > What is a fire service inlet and fire breaching inlet?
 - A fire service inlet, also known as a fire department connection (FDC), is a dedicated connection point that allows the fire department to access a building's water supply during firefighting operations. It provides a connection for fire department hoses and equipment to supplement the existing water source.
 - The term "fire breaching inlet" is not commonly used in fire protection systems and may refer to an inlet that enables firefighters to access alternative water sources, such as natural bodies of water, when conventional water sources are limited. However, terminology may vary, and specific definitions may depend on regional or local practices.
 
@@ -88,40 +88,43 @@ A first aid hose reel is a firefighting equipment that consists of a reel with a
 6. Maintenance Hazards: Lack of proper maintenance can lead to deteriorated system performance, blocked or non-functioning hydrants, or malfunctioning valves, compromising the system's overall effectiveness.
 7. Regulatory Compliance Hazards: Failure to comply with local fire safety regulations and standards in the design can result in non-compliant systems, which may pose hazards and potentially lead to legal and safety issues.
 
-#### > What is hydrant spacing in ordinary hazard?
+#### > What is hydrant spacing in ordinary hazards?
 - Normally in towns/cities, the hydrants should be provided at intervals of 100 m but this distance may be suitably increased or decreased depending on the risk in the area desired to be protected. [Source](https://law.resource.org/pub/in/bis/S03/is.13039.1991.html)
-- For moderate hazard (Gr G-2) where the single hydrant is use, it should be installed at every 45 m apart.
-- For high hazard category (Gr G-3, H and J), the hydrants should be installed at every 30 m apart along building line.
+- For moderate hazard (Gr G-2) where the single hydrant is used, it should be installed at every 45 m apart.
+- For the high-hazard category (Gr G-3, H and J), the hydrants should be installed every 30 m apart along the building line.
 
 #### > How many hours of firefighting capacity is required by the fire tank for light, moderate and high hazard A and high hazard B?
 1. Light Hazard: A fire tank for light hazard areas is typically required to provide a minimum of 1 hour of firefighting capacity. Light hazard areas include spaces with a low risk of fire, such as offices, schools, or residential buildings.
 2. Moderate Hazard: For moderate hazard areas, the fire tank is generally expected to provide a minimum of 1 to 2 hours of firefighting capacity. Moderate hazard areas may include places with a moderate risk of fire, such as warehouses or light industrial facilities.
-3. High Hazard A: In high hazard A areas, where there is a significant fire risk, the fire tank is usually required to have a minimum of 2 to 4 hours of firefighting capacity. High hazard A areas can include locations with flammable liquids, chemicals, or industrial processes.
-4. High Hazard B: For high hazard B areas, which involve highly flammable substances or special hazards, the fire tank may need to provide a minimum of 4 to 6 hours or even more of firefighting capacity. High hazard B areas may include locations with large quantities of flammable materials, petrochemical facilities, or heavy industrial plants.
+3. High Hazard A: In high hazard A areas, where there is a significant fire risk, the fire tank is usually required to have a minimum of 2 to 4 hours of firefighting capacity. High-hazard areas can include locations with flammable liquids, chemicals, or industrial processes.
+4. High Hazard B: For high hazard B areas, which involve highly flammable substances or special hazards, the fire tank may need to provide a minimum of 4 to 6 hours or even more of firefighting capacity. High-hazard B areas may include locations with large quantities of flammable materials, petrochemical facilities, or heavy industrial plants.
 
 ## FIRE SPRINKLER SYSTEM
 #### > What is the role of a fire sprinkler?
-Fire sprinklers detect and control fires by releasing water onto the affected area. They activate individually when exposed to heat, suppressing flames and preventing fire spread. Sprinklers provide immediate response, minimizing damage and protecting lives in buildings and structures.
+Fire sprinklers detect and control fires by releasing water onto the affected area. They activate individually when exposed to heat, suppressing flames and preventing fire spread. Sprinklers provide an immediate response, minimizing damage and protecting lives in buildings and structures.
 
 #### > What are the types of fire sprinklers?
 1. Pendant Sprinklers: These sprinklers hang from the ceiling with a deflector that sprays water in a circular pattern below the sprinkler head.
 2. Upright Sprinklers: Upright sprinklers are installed in an upright position and emit water in a spray pattern that reaches out and down.
 3. Sidewall Sprinklers: These sprinklers are mounted on the side wall of a room and spray water in a half-circle pattern.
 4. Concealed Sprinklers: Concealed sprinklers are recessed into the ceiling with a cover plate, which falls away when exposed to high temperatures, allowing water to flow.
-5. Early Suppression, Fast Response (ESFR) Sprinklers: ESFR sprinklers are designed for high challenge fire protection in warehouses and other high-ceiling areas. They deliver a high volume of water quickly to suppress fires.
+5. Early Suppression, Fast Response (ESFR) Sprinklers: ESFR sprinklers are designed for high-challenge fire protection in warehouses and other high-ceiling areas. They deliver a high volume of water quickly to suppress fires.
 6. Residential Sprinklers: Specifically designed for residential buildings, these sprinklers are smaller in size and are intended to blend with the décor while providing fire protection.
 
 #### > What are the various general temperature ratings of the fire sprinklers? Explain with colour codes
-Fire sprinklers are classified into various temperature ratings, which indicate the temperature at which the sprinkler head will activate. The temperature ratings are typically represented by color codes: [Source](http://www.alliedfire.in/products/sprinkler.html)
+Fire sprinklers are classified into various temperature ratings, which indicate the temperature at which the sprinkler head will activate. The temperature ratings are typically represented by colour codes: [Source](http://www.alliedfire.in/products/sprinkler.html)
 1. Ordinary Temperature (Orange): Ordinary temperature sprinklers have an activation temperature of around 135°C (275°F) and are suitable for most standard applications.
 2. Intermediate Temperature (Yellow): Intermediate temperature sprinklers have an activation temperature of around 162°C (350°F) and are commonly used in areas with higher ambient temperatures or specific hazards.
 3. High Temperature (Red): High-temperature sprinklers have an activation temperature of around 204°C (400°F) and are utilized in locations with extreme heat conditions or where rapid fire development is expected.
 4. Extra High Temperature (Blue): Extra high-temperature sprinklers have an activation temperature of around 260°C (500°F) and are specifically designed for industrial processes or areas with exceptionally high-temperature environments.
 
-#### > Does sprinkler system extinguish fire automatically?
+#### > Does the sprinkler system extinguish fire automatically?
 Yes, sprinkler systems automatically extinguish or control fires. When heat from a fire reaches a specific temperature, individual sprinkler heads activate, releasing water onto the fire. This rapid response helps to suppress the flames, cool the area, and prevent the fire from spreading further.
 
-#### > How much floor area a pendant sprinkler covers normally
+#### > How much floor area does a pendant sprinkler covers normally have?
+A pendant sprinkler typically covers an area of approximately 12-20 square meters (130-215 square feet) under standard conditions
+
+#### > What is the minimum and maximum spacing of fire sprinklers?
 
 
 
@@ -130,7 +133,7 @@ Yes, sprinkler systems automatically extinguish or control fires. When heat from
 A smoke detector plays a crucial role in fire alarm systems by sensing the presence of smoke particles in the air. When smoke concentration surpasses a predetermined threshold, the detector triggers the fire alarm, alerting occupants to the potential danger of a fire outbreak. Early detection allows for timely evacuation and fire response.
 
 #### > What is the function of a heat detector?
-Heat detectors are designed to monitor temperature changes (i.e it looks out for a sudden sharp rise in temperature) or detect when the temperature exceeds a specific threshold. These detectors are particularly useful in environments where smoke or combustion products may not be immediately present during the early stages of a fire. Once a significant temperature rise is detected, the heat detector activates the fire alarm system, signaling the need for evacuation and emergency response.
+Heat detectors are designed to monitor temperature changes (i.e looks out for a sudden sharp rise in temperature) or detect when the temperature exceeds a specific threshold. These detectors are particularly useful in environments where smoke or combustion products may not be immediately present during the early stages of a fire. Once a significant temperature rise is detected, the heat detector activates the fire alarm system, signalling the need for evacuation and emergency response.
 
 #### > What is the function of a beam detector?
 Beam detectors utilize an emitter and receiver to generate an infrared beam across a designated area. When smoke interrupts the beam, the detector triggers the fire alarm. This type of detector is commonly employed in large spaces like warehouses or atriums, where traditional spot-type smoke detectors may not be suitable due to high ceilings or airflow patterns.
@@ -141,20 +144,19 @@ A manual call point serves as a manual activation device within a fire alarm sys
 #### > What is the difference between addressable and conventional fire alarm systems?
 Addressable fire alarm systems provide individual addresses to each device, such as smoke detectors or manual call points, within the system. This allows for specific identification of the device's location when an alarm is triggered, aiding in pinpointing the source of the fire. In contrast, conventional fire alarm systems group multiple devices on a circuit, with each circuit representing a zone, and the alarm indicates the general area rather than the specific device.
 
-#### > Under what condition are smoke/heat detectors needed above false ceilings?
+#### > Under what conditions are smoke/heat detectors needed above false ceilings?
 Voids, such as false ceilings or flooring exceeding 800 mm in height, should be equipped with detectors spaced according to standard installation guidelines. However, for voids below 800 mm, independent coverage may not be required unless the void serves as a pathway for the spread of fire between rooms or compartments.
 
 #### > What is the role of a response indicator?
 The response indicator plays a vital role in fire alarm systems by providing visual and/or audible feedback to firefighters or emergency responders. When an alarm is activated, the response indicator displays the specific location and type of alarm, enabling responders to quickly identify the source of the alarm and take appropriate action to mitigate the fire situation.
 
-
 ## PASSIVE FIRE PROTECTION
-#### > What type of fire separation are provided in the structure of the building?
+#### > What type of fire separation is provided in the structure of the building?
 1. Firewalls: Vertical barriers designed to prevent the spread of fire and smoke between separate buildings or sections of a building.
 2. Fire-rated walls: Walls constructed with fire-resistant materials and assemblies to contain fire within a specific area and prevent its spread to adjacent spaces.
 3. Fire doors: Doors equipped with fire-resistant materials and self-closing mechanisms to restrict the passage of fire and smoke between compartments.
 4. Fire-rated floors/ceilings: Horizontal assemblies designed to resist the spread of fire and smoke between different levels of a building.
-5. Fire dampers: Devices installed in ductwork to prevent the spread of fire and smoke through ventilation systems.
+5. Fire dampers: Devices installed in the ductwork to prevent the spread of fire and smoke through ventilation systems.
 6. Fire-resistant glazing: Glass or glazing systems with fire-resistant properties, used in windows, doors, and other openings to maintain compartmentation and prevent fire spread.
 
 #### > What is cable duct protection?
