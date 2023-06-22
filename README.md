@@ -124,9 +124,17 @@ Yes, sprinkler systems automatically extinguish or control fires. When heat from
 #### > How much floor area does a pendant sprinkler covers normally have?
 A pendant sprinkler typically covers an area of approximately 12-20 square meters (130-215 square feet) under standard conditions
 
-#### > What is the minimum and maximum spacing of fire sprinklers?
+#### > What is the minimum and maximum spacing of fire sprinklers? [(Source)](https://law.resource.org/pub/in/bis/S03/is.9972.2002.svg.html)
+The minimum and maximum spacing of fire sprinklers can vary depending on factors such as the type of sprinkler, the hazard classification, and local fire safety regulations. As a general guideline, the minimum spacing is typically around 1.8 to 2.4 meters, while the maximum spacing can range from 4.5 to 6 meters.
 
+#### > What is the role of a Flow Switch?
+The role of a flow switch in a fire protection system is to monitor and detect the flow of water within the system. It is typically installed in the main water supply line and activates when water flows through the system, indicating that the sprinkler system is in operation. Flow switches are essential for providing an indication of water flow, which can be used to trigger alarms, activate fire pump systems, or signal the presence of a fire to the building occupants and authorities. They help ensure the proper functioning of the fire protection system and facilitate prompt response to fire incidents.
 
+#### > What is the role of a wet alarm valve? 
+The role of a wet alarm valve in a fire sprinkler system is to control the flow of water to the sprinkler system and provide an alarm signal when water is discharged. The wet alarm valve is typically located in the water supply pipe near the connection to the sprinkler system.
+
+#### > What is the other name of a wet alarm valve?
+Another name for a wet alarm valve is a "water motor alarm valve" or simply a "motor alarm valve." These terms are used interchangeably to refer to the same component in a fire sprinkler system.
 
 ## FIRE ALARM SYSTEM
 #### > What is the function of a smoke detector?
