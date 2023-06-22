@@ -113,10 +113,6 @@ Fire sprinklers detect and control fires by releasing water onto the affected ar
 
 #### > What are the various general temperature ratings of the fire sprinklers? Explain with colour codes
 Fire sprinklers are classified into various temperature ratings, which indicate the temperature at which the sprinkler head will activate. The temperature ratings are typically represented by colour codes: [Source](http://www.alliedfire.in/products/sprinkler.html)
-1. Ordinary Temperature (Orange): Ordinary temperature sprinklers have an activation temperature of around 135°C (275°F) and are suitable for most standard applications.
-2. Intermediate Temperature (Yellow): Intermediate temperature sprinklers have an activation temperature of around 162°C (350°F) and are commonly used in areas with higher ambient temperatures or specific hazards.
-3. High Temperature (Red): High-temperature sprinklers have an activation temperature of around 204°C (400°F) and are utilized in locations with extreme heat conditions or where rapid fire development is expected.
-4. Extra High Temperature (Blue): Extra high-temperature sprinklers have an activation temperature of around 260°C (500°F) and are specifically designed for industrial processes or areas with exceptionally high-temperature environments.
 
 #### > Does the sprinkler system extinguish fire automatically?
 Yes, sprinkler systems automatically extinguish or control fires. When heat from a fire reaches a specific temperature, individual sprinkler heads activate, releasing water onto the fire. This rapid response helps to suppress the flames, cool the area, and prevent the fire from spreading further.
