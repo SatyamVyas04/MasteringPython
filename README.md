@@ -119,5 +119,56 @@ Fire sprinklers are classified into various temperature ratings, which indicate 
 4. Extra High Temperature (Blue): Extra high-temperature sprinklers have an activation temperature of around 260°C (500°F) and are specifically designed for industrial processes or areas with exceptionally high-temperature environments.
 
 #### > Does sprinkler system extinguish fire automatically?
+Yes, sprinkler systems automatically extinguish or control fires. When heat from a fire reaches a specific temperature, individual sprinkler heads activate, releasing water onto the fire. This rapid response helps to suppress the flames, cool the area, and prevent the fire from spreading further.
 
+#### > How much floor area a pendant sprinkler covers normally
+
+
+
+## FIRE ALARM SYSTEM
+#### > What is the function of a smoke detector?
+A smoke detector plays a crucial role in fire alarm systems by sensing the presence of smoke particles in the air. When smoke concentration surpasses a predetermined threshold, the detector triggers the fire alarm, alerting occupants to the potential danger of a fire outbreak. Early detection allows for timely evacuation and fire response.
+
+#### > What is the function of a heat detector?
+Heat detectors are designed to monitor temperature changes (i.e it looks out for a sudden sharp rise in temperature) or detect when the temperature exceeds a specific threshold. These detectors are particularly useful in environments where smoke or combustion products may not be immediately present during the early stages of a fire. Once a significant temperature rise is detected, the heat detector activates the fire alarm system, signaling the need for evacuation and emergency response.
+
+#### > What is the function of a beam detector?
+Beam detectors utilize an emitter and receiver to generate an infrared beam across a designated area. When smoke interrupts the beam, the detector triggers the fire alarm. This type of detector is commonly employed in large spaces like warehouses or atriums, where traditional spot-type smoke detectors may not be suitable due to high ceilings or airflow patterns.
+
+#### > What is the function of a manual call point?
+A manual call point serves as a manual activation device within a fire alarm system. In case of an emergency, individuals can manually activate the fire alarm by breaking the glass or pressing a button on the call point. This action triggers the fire alarm system, notifying occupants to evacuate and enabling prompt emergency response.
+
+#### > What is the difference between addressable and conventional fire alarm systems?
+Addressable fire alarm systems provide individual addresses to each device, such as smoke detectors or manual call points, within the system. This allows for specific identification of the device's location when an alarm is triggered, aiding in pinpointing the source of the fire. In contrast, conventional fire alarm systems group multiple devices on a circuit, with each circuit representing a zone, and the alarm indicates the general area rather than the specific device.
+
+#### > Under what condition are smoke/heat detectors needed above false ceilings?
+Voids, such as false ceilings or flooring exceeding 800 mm in height, should be equipped with detectors spaced according to standard installation guidelines. However, for voids below 800 mm, independent coverage may not be required unless the void serves as a pathway for the spread of fire between rooms or compartments.
+
+#### > What is the role of a response indicator?
+The response indicator plays a vital role in fire alarm systems by providing visual and/or audible feedback to firefighters or emergency responders. When an alarm is activated, the response indicator displays the specific location and type of alarm, enabling responders to quickly identify the source of the alarm and take appropriate action to mitigate the fire situation.
+
+
+## PASSIVE FIRE PROTECTION
+#### > What type of fire separation are provided in the structure of the building?
+1. Firewalls: Vertical barriers designed to prevent the spread of fire and smoke between separate buildings or sections of a building.
+2. Fire-rated walls: Walls constructed with fire-resistant materials and assemblies to contain fire within a specific area and prevent its spread to adjacent spaces.
+3. Fire doors: Doors equipped with fire-resistant materials and self-closing mechanisms to restrict the passage of fire and smoke between compartments.
+4. Fire-rated floors/ceilings: Horizontal assemblies designed to resist the spread of fire and smoke between different levels of a building.
+5. Fire dampers: Devices installed in ductwork to prevent the spread of fire and smoke through ventilation systems.
+6. Fire-resistant glazing: Glass or glazing systems with fire-resistant properties, used in windows, doors, and other openings to maintain compartmentation and prevent fire spread.
+
+#### > What is cable duct protection?
+Cable duct protection in passive fire protection involves using fire-resistant materials, fire-rated ducts, seals, and coatings to prevent the spread of fire and smoke through cable pathways in buildings. It helps maintain fire barriers' integrity, restricts fire propagation, and enhances safety during emergencies.
+
+#### > What is staircase lobby protection?
+Staircase lobby protection in passive fire protection refers to measures taken to ensure the safety and containment of stairwells during a fire. It includes fire-rated enclosures, fire-resistant doors, and smoke control systems to prevent the spread of fire and smoke between floors and provide a protected means of escape for occupants.
+
+#### > What type of material is used in passive protection
+In passive fire protection, various materials are used to enhance fire resistance and prevent the spread of fire. These materials include fire-resistant gypsum board, fire-rated doors, firestop sealants, intumescent coatings, fire-resistant insulation, fire-rated glass, and fire-resistant barriers like concrete, masonry, and steel. Each material is selected based on its ability to withstand and delay the effects of fire.
+
+#### > How much time minimum a wooden door is required to stop the fire
+Fire-rated wooden doors can provide fire resistance for a minimum of 20 minutes, as per standard ratings. These doors are constructed with fire-resistant materials and are designed to delay the spread of fire, allowing occupants additional time to evacuate and limiting the fire's progression within the building.
+
+#### > Why passive fire protection is necessary in the building
+Passive fire protection is necessary in buildings to enhance safety by containing and slowing down the spread of fire and smoke. It provides critical time for occupants to evacuate, enables effective firefighting, protects structural integrity, and reduces property damage. Passive fire protection measures are essential for life safety and property preservation during fire incidents.
 
