@@ -1,0 +1,81 @@
+S. No.,Date,Score,Strike Rate,Type of Match,Position,Innings,Dismissed,Man of the Match,Captain,Against,Venue,H/A/N,Result
+1,24-12-2009,107,93.85,ODI,4,2,Yes,No,No,Sri Lanka,"Eden Gardens, Kolkata",Home,Won
+2,11-01-2010,102,107.37,ODI,3,2,No,Yes,No,Bangladesh,"Sher-e-Bangla Stadium, Dhaka",Away,Won
+3,20-10-2010,118,97.52,ODI,3,2,Yes,Yes,No,Australia,"APCA-VDCA Stadium, Visakhapatnam",Home,Won
+4,28-11-2010,105,100.96,ODI,3,1,Yes,Yes,No,New Zealand,"Nehru Stadium, Guwahati",Home,Won
+5,19-02-2011,100,120.48,ODI,4,1,No,No,No,Bangladesh,"Sher-e-Bangla Stadium, Dhaka",Away,Won
+6,16-09-2011,107,115.05,ODI,4,1,Yes,No,No,England,"Sophia Gardens, Cardiff",Away,Lost
+7,17-10-2011,112,114.28,ODI,4,2,No,Yes,No,England,"Feroz Shah Kotla Ground, Delhi",Home,Won
+8,02-12-2011,117,95.12,ODI,4,2,Yes,Yes,No,West Indies,"APCA-VDCA Stadium, Visakhapatnam",Home,Won
+9,28-02-2012,133,154.65,ODI,4,2,No,Yes,No,Sri Lanka,"Bellerive Oval, Hobart",Neutral,Won
+10,13-03-2012,108,90,ODI,3,1,Yes,Yes,No,Sri Lanka,"Sher-e-Bangla Stadium, Dhaka",Neutral,Won
+11,18-03-2012,183,123.64,ODI,3,2,Yes,Yes,No,Pakistan,"Sher-e-Bangla Stadium, Dhaka",Neutral,Won
+12,21-07-2012,106,93.8,ODI,3,1,Yes,Yes,No,Sri Lanka,"MRIC Stadium, Hambantota",Away,Won
+13,31-07-2012,128,107.56,ODI,3,2,No,Yes,No,Sri Lanka,"R. Premadasa Stadium, Colombo",Away,Won
+14,05-07-2013,102,122.89,ODI,3,1,Yes,No,Yes,West Indies,"Queen's Park Oval, Port of Spain",Away,Won
+15,24-07-2013,115,106.48,ODI,3,2,Yes,No,Yes,Zimbabwe,"Harare Sports Club, Harare",Away,Won
+16,16-10-2013,100,192.3,ODI,3,2,No,No,No,Australia,"Sawai Mansingh Stadium, Jaipur",Home,Won
+17,30-10-2013,115,174.24,ODI,3,2,No,Yes,No,Australia,"VCA Stadium, Nagpur",Home,Won
+18,19-01-2014,123,110.81,ODI,3,2,Yes,No,No,New Zealand,"McLean Park, Napier",Away,Lost
+19,26-02-2014,136,111.47,ODI,3,2,Yes,Yes,Yes,Bangladesh,"Khan Shaheb Osman Ali Stadium, Fatullah",Away,Won
+20,17-10-2014,127,111.4,ODI,3,1,Yes,Yes,No,West Indies,"HPCA Stadium, Dharamshala",Home,Won
+21,16-11-2014,139,110.31,ODI,4,2,No,No,Yes,Sri Lanka,"JSCA Stadium, Ranchi",Home,Won
+22,15-02-2015,107,84.9,ODI,3,1,Yes,Yes,No,Pakistan,"Adelaide Oval, Adelaide",Neutral,Won
+23,22-10-2015,138,98.57,ODI,3,1,Yes,Yes,No,South Africa,"M. A. Chidambaram Stadium, Chennai",Home,Won
+24,17-01-2016,117,100,ODI,3,1,Yes,No,No,Australia,"Melbourne Cricket Ground, Melbourne",Away,Lost
+25,20-01-2016,106,115.21,ODI,3,2,Yes,No,No,Australia,"Manuka Oval, Canberra",Away,Lost
+26,23-10-2016,154,114.92,ODI,3,2,No,Yes,No,New Zealand,"IS Bindra Stadium, Mohali",Home,Won
+27,15-01-2017,122,116.19,ODI,3,2,Yes,No,Yes,England,"Maharashtra Cricket Association Stadium, Pune",Home,Won
+28,06-07-2017,111,96.52,ODI,3,2,No,Yes,Yes,West Indies,"Sabina Park, Kingston",Away,Won
+29,31-08-2017,131,136.45,ODI,3,1,Yes,Yes,Yes,Sri Lanka,"R. Premadasa Stadium, Colombo",Away,Won
+30,03-09-2017,110,94.82,ODI,3,2,No,No,Yes,Sri Lanka,"R. Premadasa Stadium, Colombo",Away,Won
+31,22-10-2017,121,96.8,ODI,3,1,Yes,No,Yes,New Zealand,"Wankhede Stadium, Mumbai",Home,Lost
+32,29-10-2017,113,106.6,ODI,3,1,Yes,No,Yes,New Zealand,"Green Park Stadium, Kanpur",Home,Won
+33,01-02-2018,112,94.11,ODI,3,2,Yes,Yes,Yes,South Africa,"Kingsmead Cricket Ground, Durban",Away,Won
+34,07-02-2018,160,100.62,ODI,3,1,No,Yes,Yes,South Africa,"Newlands Cricket Ground, Cape Town",Away,Won
+35,16-02-2018,129,134.37,ODI,3,2,No,Yes,Yes,South Africa,"SuperSport Park, Centurion",Away,Won
+36,21-10-2018,140,130.84,ODI,3,2,Yes,Yes,Yes,West Indies,"ACA Stadium, Guwahati",Home,Won
+37,24-10-2018,157,121.71,ODI,3,1,No,Yes,Yes,West Indies,"ACA-VDCA Stadium, Visakhapatnam",Home,Tied
+38,27-10-2018,107,89.91,ODI,3,2,Yes,No,Yes,West Indies,"Maharashtra Cricket Association Stadium, Pune",Home,Lost
+39,15-01-2019,104,92.85,ODI,3,2,Yes,Yes,Yes,Australia,"Adelaide Oval, Adelaide",Away,Won
+40,05-03-2019,116,96.67,ODI,3,1,Yes,Yes,Yes,Australia,"Vidarbha Cricket Association Stadium, Nagpur",Home,Won
+41,08-03-2019,123,129.47,ODI,3,2,Yes,No,Yes,Australia,"JSCA Stadium, Ranchi",Home,Lost
+42,11-08-2019,120,96,ODI,3,1,Yes,Yes,Yes,West Indies,"Queen's Park Oval, Port of Spain",Away,Won
+43,14-08-2019,114,115.15,ODI,3,2,No,Yes,Yes,West Indies,"Queen's Park Oval, Port of Spain",Away,Won
+44,10-12-2022,113,124.17,ODI,3,1,Yes,No,No,Bangladesh,"Zohur Ahmed Chowdhury Stadium, Chittagong",Away,Won
+45,10-01-2023,113,129.88,ODI,3,1,Yes,Yes,No,Sri Lanka,"ACA Stadium, Guwahati",Home,Won
+46,15-01-2023,166,150.9,ODI,3,1,No,Yes,No,Sri Lanka,"Greenfield International Stadium, Thiruvananthapuram",Home,Won
+47,10-09-2023,122,129.78,ODI,3,1,No,Yes,No,Pakistan,"R. Premadasa Stadium, Colombo",Neutral,Won
+48,19-10-2023,103,106.18,ODI,3,2,No,Yes,No,Bangladesh,"Maharashtra Cricket Association Stadium, Pune",Home,Won
+49,05-11-2023,101,83.47,ODI,3,1,No,Yes,No,South Africa,"Eden Gardens, Kolkata",Home,Won
+50,15-11-2023,117,103.53,ODI,3,1,Yes,No,No,New Zealand,"Wankhede Stadium, Mumbai",Home,Won
+51,24-01-2012,116,54.46,Test,6,2,Yes,No,No,Australia,"Adelaide Oval, Adelaide",Away,Lost
+52,31-08-2012,103,53.36,Test,5,2,Yes,Yes,No,New Zealand,"M. Chinnaswamy Stadium, Bangalore",Home,Won
+53,13-12-2012,103,34.91,Test,5,2,Yes,No,No,England,"Vidarbha Cricket Association Stadium, Nagpur",Home,Drawn
+54,22-02-2013,107,51.94,Test,5,2,Yes,No,No,Australia,"M. A. Chidambaram Stadium, Chennai",Home,Won
+55,18-12-2013,119,192.13,Test,4,1,Yes,Yes,No,South Africa,"Wanderers Stadium, Johannesburg",Away,Drawn
+56,14-02-2014,105,100.19,Test,4,4,No,No,No,New Zealand,"Basin Reserve, Wellington",Away,Drawn
+57,09-12-2014,115,62.5,Test,4,2,Yes,No,Yes,Australia,"Adelaide Oval, Adelaide",Away,Lost
+58,09-12-2014,141,80.57,Test,4,4,Yes,No,Yes,Australia,"Adelaide Oval, Adelaide",Away,Lost
+59,26-12-2014,169,62.13,Test,4,2,Yes,No,No,Australia,"Melbourne Cricket Ground, Melbourne",Away,Drawn
+60,06-01-2015,147,98.57,Test,4,2,Yes,No,Yes,Australia,"Sydney Cricket Ground, Sydney",Away,Drawn
+61,12-08-2015,103,72.54,Test,4,2,Yes,No,Yes,Sri Lanka,"Galle International Stadium, Galle",Away,Lost
+62,21-07-2016,200,70.67,Test,4,1,Yes,No,Yes,West Indies,"Sir Vivian Richards Stadium, Antigua",Away,Won
+63,08-10-2016,211,65.87,Test,4,1,Yes,No,Yes,New Zealand,"Holkar Stadium, Indore",Home,Won
+64,17-11-2016,167,72.78,Test,4,1,Yes,Yes,Yes,England,"ACA-VDCA Cricket Stadium, Visakhapatnam",Home,Won
+65,08-12-2016,235,69.11,Test,4,2,Yes,Yes,Yes,England,"Wankhede Stadium, Mumbai",Home,Won
+66,09-02-2017,204,82.92,Test,4,1,Yes,Yes,Yes,Bangladesh,"Rajiv Gandhi Stadium, Hyderabad",Home,Won
+67,26-07-2017,103,75.73,Test,4,3,No,No,Yes,Sri Lanka,"Galle International Stadium, Galle",Away,Won
+68,16-11-2017,104,87.39,Test,4,3,No,No,Yes,Sri Lanka,"Eden Gardens, Kolkata",Home,Drawn
+69,24-11-2017,213,79.77,Test,4,2,Yes,Yes,Yes,Sri Lanka,"Vidarbha Cricket Association Stadium, Nagpur",Home,Won
+70,02-12-2017,243,84.66,Test,4,1,Yes,Yes,Yes,Sri Lanka,"Feroz Shah Kotla Ground, Delhi",Home,Drawn
+71,13-01-2018,153,61.75,Test,4,2,Yes,No,Yes,South Africa,"SuperSport Park, Centurion",Away,Lost
+72,01-08-2018,149,66.82,Test,4,2,Yes,No,Yes,England,"Edgbaston, Birmingham",Away,Lost
+73,18-08-2018,103,52.28,Test,4,3,Yes,Yes,Yes,England,"Trent Bridge, Nottingham",Away,Won
+74,04-10-2018,139,60.43,Test,4,1,Yes,No,Yes,West Indies,"Saurashtra Cricket Association Stadium, Rajkot",Home,Won
+75,14-12-2018,123,47.85,Test,4,2,Yes,No,Yes,Australia,"Perth Stadium, Perth",Away,Lost
+76,10-10-2019,254,75.59,Test,4,1,No,Yes,Yes,South Africa,"Maharashtra Cricket Association Stadium, Pune",Home,Won
+77,22-11-2019,136,70.1,Test,4,2,Yes,No,Yes,Bangladesh,"Eden Gardens, Kolkata",Home,Won
+78,09-03-2023,186,51.09,Test,4,2,Yes,Yes,No,Australia,"Narendra Modi Stadium, Ahmedabad",Home,Drawn
+79,20-07-2023,121,58.73,Test,4,1,Yes,No,No,West Indies,"Queen's Park Oval, Port of Spain",Away,Drawn
+80,08-09-2022,122,200,T20,2,1,No,Yes,No,Afghanistan,"Dubai International Cricket Stadium, Dubai",Neutral,Won
