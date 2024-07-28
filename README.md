@@ -1,4 +1,4 @@
-# LearningPythonPkgs
+# MasteringPython
 
 This repository contains programs and small projects created while learning important Python libraries such as OpenPyXL, NumPy, Pandas, and Tkinter.
 
@@ -7,6 +7,7 @@ This repository contains programs and small projects created while learning impo
 - **NumPy (np)**: Essential for numerical computing in Python.
 - **Pandas (pd)**: Provides data structures and data analysis tools.
 - **Tkinter**: Python's standard GUI (Graphical User Interface) toolkit.
+- **ML Basics**: Added a readme for the concepts I'm learning otw.
 
 ## Contents
 - Each directory or file in this repository represents a learning exercise or a small project.
