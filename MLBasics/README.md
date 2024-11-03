@@ -123,3 +123,34 @@
         mae = mean_absolute_error(y_valid, predictions)
         print('Validation MAE:', mae)
         ```
+
+### Module 5: Underfitting and Overfitting
+
+-   **Overfitting**
+
+    > When a machine learning model learns the training data too well, including its noise and outliers, it performs very well on training data but poorly on new, unseen data. This happens because the model becomes too complex and "memorizes" rather than generalizes, capturing specific details rather than broader patterns.
+
+-   **Underfitting**
+
+    > When a model is too simple, it fails to capture the underlying patterns in the training data. It performs poorly on both the training and test data, as it cannot represent the complexity of the data, often due to a lack of features or insufficient training.
+
+-   **Solution**
+
+    We need to find the best number of leafs, such that the MAE for our model is on the lower side, of the overfitted graph as shown here ![](https://storage.googleapis.com/kaggle-media/learn/images/AXSEOfI.png)
+
+    ```python
+    def get_mae(max_leaf_nodes, train_X, val_X, train_y, val_y):
+        model = DecisionTreeRegressor(max_leaf_nodes=max_leaf_nodes, random_state=0)
+        model.fit(train_X, train_y)
+        preds_val = model.predict(val_X)
+        mae = mean_absolute_error(val_y, preds_val)
+        return(mae)
+    ```
+
+    Then we can look through with other possible leaf node counts to figure out the perfect tree size for our estimations. In other words, the lead node count that results in the least MAE is the best to be used for our DecisionTreeRegressor
+
+    ```python
+    for max_leaf_nodes in [5, 50, 500, 5000]:
+        my_mae = get_mae(max_leaf_nodes, train_X, val_X, train_y, val_y)
+        print("Max leaf nodes: %d  \t\t Mean Absolute Error:  %d" %(max_leaf_nodes, my_mae))
+    ```
