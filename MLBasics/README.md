@@ -136,7 +136,7 @@
 
 -   **Solution**
 
-    We need to find the best number of leafs, such that the MAE for our model is on the lower side, of the overfitted graph as shown here ![](https://storage.googleapis.com/kaggle-media/learn/images/AXSEOfI.png)
+    We need to find the optimal number of leaves such that the MAE for our model is minimized, as shown in the overfitting graph here: ![](https://storage.googleapis.com/kaggle-media/learn/images/AXSEOfI.png)
 
     ```python
     def get_mae(max_leaf_nodes, train_X, val_X, train_y, val_y):
@@ -144,13 +144,105 @@
         model.fit(train_X, train_y)
         preds_val = model.predict(val_X)
         mae = mean_absolute_error(val_y, preds_val)
-        return(mae)
+        return mae
     ```
 
-    Then we can look through with other possible leaf node counts to figure out the perfect tree size for our estimations. In other words, the lead node count that results in the least MAE is the best to be used for our DecisionTreeRegressor
+    Then we can look through other possible leaf node counts to figure out the perfect tree size for our estimations. In other words, the leaf node count that results in the least MAE is the best to be used for our DecisionTreeRegressor.
 
     ```python
     for max_leaf_nodes in [5, 50, 500, 5000]:
         my_mae = get_mae(max_leaf_nodes, train_X, val_X, train_y, val_y)
-        print("Max leaf nodes: %d  \t\t Mean Absolute Error:  %d" %(max_leaf_nodes, my_mae))
+        print("Max leaf nodes: %d  \t\t Mean Absolute Error:  %d" % (max_leaf_nodes, my_mae))
+    ```
+
+### Module 6: Random Forests
+
+-   **Introduction**
+
+    Decision trees can overfit with too many leaves or underfit with too few. This balance is a common challenge in machine learning.
+
+    > Even advanced models struggle with underfitting and overfitting. However, some models, like the random forest, offer better performance through innovative approaches.
+
+    Random forests use multiple trees and average their predictions, improving accuracy over a single decision tree. They perform well with default settings, though further tuning can enhance results.
+
+-   **Using RandomForestRegressor**
+
+    Random forests are implemented in `sklearn` using `RandomForestRegressor`. The process is similar to DecisionTreeRegressor, but with additional parameters for tuning.
+
+    ```python
+    from sklearn.ensemble import RandomForestRegressor
+
+    model = RandomForestRegressor(random_state=1)
+    model.fit(X_train, y_train)
+    preds = model.predict(X_valid)
+    ```
+
+### Module 7: Kaggle Competitions
+
+-   **Introduction to Kaggle Competitions:**
+
+    > Kaggle is a platform for data science competitions. Participants can compete to solve data science challenges, improve their skills, and collaborate with others.
+
+-   **Getting Started:**
+
+    > To participate in a Kaggle competition, you need to create an account on Kaggle and join a competition. Each competition provides a dataset, a problem statement, and evaluation criteria.
+
+-   **Downloading the Data:**
+
+    > Once you join a competition, you can download the dataset from the competition's Data page. The data is usually provided in CSV format.
+
+    ```python
+    import pandas as pd
+
+    train_data = pd.read_csv('train.csv')
+    test_data = pd.read_csv('test.csv')
+    ```
+
+-   **Building a Model:**
+
+    > Use the training data to build and train your machine learning model. You can use any algorithm or library you prefer.
+
+    ```python
+    from sklearn.ensemble import RandomForestRegressor
+
+    model = RandomForestRegressor(random_state=1)
+    model.fit(train_data[['feature1', 'feature2']], train_data['target'])
+    ```
+
+-   **Making Predictions:**
+
+    > Use your trained model to make predictions on the test data provided by the competition.
+
+    ```python
+    predictions = model.predict(test_data[['feature1', 'feature2']])
+    ```
+
+-   **Creating a Submission File:**
+
+    > Format your predictions according to the competition's submission requirements. Typically, you need to create a CSV file with your predictions.
+
+    ```python
+    submission = pd.DataFrame({'Id': test_data['Id'], 'Prediction': predictions})
+    submission.to_csv('submission.csv', index=False)
+    ```
+
+-   **Submitting to Kaggle:**
+
+    > Upload your submission file to the competition's Submission page. Kaggle will evaluate your submission and provide a score based on the competition's evaluation metric.
+
+    ```markdown
+    1. Go to the competition's Submission page.
+    2. Click on "Submit Predictions".
+    3. Upload your `submission.csv` file.
+    4. Check your score and ranking on the leaderboard.
+    ```
+
+-   **Improving Your Score:**
+
+    > Analyze your model's performance and iterate to improve your score. You can try different algorithms, feature engineering, and hyperparameter tuning.
+
+    ```markdown
+    -   Experiment with different models and parameters.
+    -   Use cross-validation to assess model performance.
+    -   Collaborate with other participants to learn new techniques.
     ```
